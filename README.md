@@ -19,5 +19,5 @@ For Whom:
 * Anyone who needs a speed test.
 * Thank you for reading
 
-# Images from program 
+# Image from program 
 ![Link Address](https://github.com/LegendarX/Internet-Speed-Test/blob/main/png/1.png)
